@@ -1,4 +1,4 @@
-# Sales-maximization-Project
+# Sales-maximization-Project-Presentation
 
 ![Slide1](https://user-images.githubusercontent.com/32847030/61596075-d531ce80-abcc-11e9-9d01-0caba2da7c72.JPG)
 ![Slide2](https://user-images.githubusercontent.com/32847030/61596076-d531ce80-abcc-11e9-8b48-45d52e67e033.JPG)
